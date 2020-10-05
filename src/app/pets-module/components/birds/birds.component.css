@@ -1,0 +1,25 @@
+.bird_animal{
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+}
+
+img{
+    width: 30%;
+    height: 70%;
+}
+
+
+.bird{
+    width:33.33%;
+    text-align: center;
+    border:3px solid transparent;
+   
+}
+
+.bird:first-child{
+    margin-right: 20px;
+}
+.bird:last-child{
+    margin-left: 20px;
+}

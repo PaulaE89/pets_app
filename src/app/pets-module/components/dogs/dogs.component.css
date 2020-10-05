@@ -1,0 +1,25 @@
+.dog_animal{
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+}
+
+img{
+    width: 30%;
+    height: 70%;
+}
+
+
+.dog{
+    width:33.33%;
+    text-align: center;
+    border:3px solid transparent;
+   
+}
+
+.dog:first-child{
+    margin-right: 20px;
+}
+.dog:last-child{
+    margin-left: 20px;
+}

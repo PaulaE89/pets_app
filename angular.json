@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pets-app"
+    }
+  },
+  "defaultProject": "pets-app",
+  "cli": {
+    "analytics": false
+  }
 }

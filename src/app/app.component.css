@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap');
+
+.question{
+
+
+    font-size: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-bottom: 15%;
+    text-align: center;
+
+
+}
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.button{
+    background: turquoise;
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 32px;
+    border-radius: 5px;
+  
+}
